@@ -1,0 +1,13 @@
+Keyboard layouts in SVG used to order keycaps from WASDKeyboards.
+
+atari800xl-keyboard-save.svg - has black text and was used to do the layout
+
+atari800xl-keyboard-final.svg - has white text and was used to order the
+                                white-on-black/grey/orange custom keycaps
+
+I used the "extra" keycaps available to try some variants of some of the
+meta keys, and order some keyscaps with indicators from 2001 spacecraft
+panels, for no particular reason.
+
+The font used was Routed Gothic: https://webonastick.com/fonts/routed-gothic/
+
